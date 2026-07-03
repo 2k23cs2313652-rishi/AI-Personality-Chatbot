@@ -3,6 +3,7 @@ langchain
 langchain-openai
 langchain-google-genai
 langchain-community
+langchain-mistralai
 openai
 mistralai
 google-generativeai
