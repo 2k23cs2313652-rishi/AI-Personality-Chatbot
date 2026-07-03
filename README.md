@@ -4,10 +4,6 @@ An interactive AI chatbot built with **Streamlit**, **LangChain**, and **Mistral
 
 ## 🚀 Live Demo
 
-> Add your deployed application link here (Streamlit Cloud/Render)
-
-Example:
-
 https://ai-personality-chatbot.onrender.com
 
 ---
