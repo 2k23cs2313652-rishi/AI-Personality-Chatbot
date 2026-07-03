@@ -8,7 +8,7 @@ An interactive AI chatbot built with **Streamlit**, **LangChain**, and **Mistral
 
 Example:
 
-https://your-app-url.streamlit.app
+https://ai-personality-chatbot.onrender.com
 
 ---
 
