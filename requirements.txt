@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+openai
+mistralai
+google-generativeai
+python-dotenv
+requests
